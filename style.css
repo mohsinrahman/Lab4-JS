@@ -1,0 +1,40 @@
+﻿body {
+    color:black;
+    background-color:ghostwhite;
+
+}
+#login
+{
+    border:5px solid;
+    position:relative;
+    top:150px;
+    left:500px;
+    width:25%;
+   font-size:16px;
+    white-space:pre-wrap;
+}
+#return
+{
+    
+    color:red;
+    padding-left:100px;
+    }
+
+#slider{
+ 
+  width: 50%;
+  height: auto;
+  
+  
+}
+
+#slider img{
+ 
+  width: 100%;
+  height: auto;
+}
+
+#container{
+ 
+    margin-top:200px;
+}
